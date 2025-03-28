@@ -1,0 +1,216 @@
+/*CSS BY NAME [Nejat Nehan]*/
+
+/*IMPORTED FONTS*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kavoon&display=swap');
+
+/*CSS RESET*/
+
+/*ROOT VARIABLES*/
+
+/*GLOBAL STYLES (mobile first/small)*/
+
+body{
+    max-width: 450px;
+    background-color: #6b8fe7;
+    padding-left: 1020px;
+}
+
+header{
+    padding-top: 30px;
+}
+
+footer{
+    padding-bottom: 40px;
+}
+
+main{
+    background-color: #484fb7;
+    
+}
+
+nav{
+    background-color: #e9bb57;
+    padding-top: .1px;
+}
+
+.five, .seven{
+    background-color: #d9526f;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 30px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    line-height: 15px;
+
+
+}
+
+nav a{
+    color: #484fb7;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    line-height: 25px;    
+}
+
+h1, h2{
+    font-family: 'Kavoon';
+}
+
+h3, p, li, tr, th, td{
+    font-family: 'Inter';
+}
+
+header, nav, footer{
+    text-align: center;
+}
+
+.one p, .two p, .three p, .four p{
+    background-color: #ffffff;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.os{
+    background-color: #ffffff;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 112px;
+    padding-right: 115px;
+}
+
+.wcu{
+    background-color: #ffffff;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 102px;
+    padding-right: 102px;
+}
+
+.ps{
+    background-color: #ffffff;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 152px;
+    padding-right: 142px;
+}
+
+.ttfs{
+    background-color: #ffffff;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 83px;
+    padding-right: 83px;
+}
+
+.mn{
+    font-family: 'inter';
+    font-style: italic;
+    font-size: 28px;
+}
+
+.h2os, .h3oooc, .h3gc, .h3ws, .h3oc{
+    padding-left: 15px;
+    line-height: 10px;
+    font-size: 23px;
+}
+
+.five{
+    height: 300px;
+}
+
+.pa, .pr, .se, .fo{
+   list-style-type: none;
+}
+
+.pa{
+    text-align: center;
+    padding-right: 300px;
+    max-height: 0px;
+    padding-top: 25px;
+    
+}
+
+.pr{
+    padding-left: 225px;
+    
+}
+
+.se{
+    padding-top: 75px;
+    padding-right: 300px;
+    text-align: center;
+    
+}
+
+.fo{
+   padding-left: 225px;
+}
+
+.tbone, .tbtwo, .tbthree, .tbfour{
+    padding-left: 80px;
+    font-size: 25px;
+}
+
+.h2wcu{
+    padding-left: 15px;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+.h2p{
+    padding-left: 15px;
+    font-size: 30px;
+}
+
+.oooc, .gc, .ws, .oc{
+    padding-left: 15px;
+    font-size: 25px;
+}
+
+.h2ttfst{
+    font-size: 31px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.pttfst{
+    font-size: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    line-height: 23px;
+    margin-top: 20px;
+}
+
+button{
+    padding-left: 105px;
+    padding-right: 105px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    border-radius: 15px; ;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 55px;
+}
+
+.c2024{
+    padding-top: 35px;
+}
